@@ -1,7 +1,11 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 .ipynb_checkpoints/
-
+script_folder/__pycache__/
+script_folder/.ipynb_checkpoints/
+script_folder/*.amltmp
+script_folder/.amlignore
+ml-runs/
+text/
 *.amltmp
 .amlignore
-
